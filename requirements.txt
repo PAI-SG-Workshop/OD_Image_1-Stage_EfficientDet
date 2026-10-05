@@ -1,0 +1,6 @@
+torch
+numpy
+opencv-python
+pillow
+torchvision
+effdet==0.4.1
